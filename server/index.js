@@ -1,0 +1,1 @@
+console.log("Moshiko is the king!");
